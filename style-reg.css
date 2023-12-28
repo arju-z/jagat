@@ -1,0 +1,36 @@
+h2{
+    font-family: 'Borel', cursive;
+}
+Label
+{
+    font-family: 'Elsie Swash Caps', serif;
+}
+
+.main
+{
+    background-color:whitesmoke;
+    margin-left: 25rem;
+    width: 50%;
+    text-align: center;
+   
+}
+
+hr
+{
+    border: dotted #849898 6PX;
+    border-bottom: none;
+    width: 40%;
+    margin: 1.25rem auto 1.25rem auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+button
+{
+    color: aliceblue;
+    border-radius: 20PX;
+    background-color: #849898;
+}
+
